@@ -1,0 +1,42 @@
+
+body {margin:0;}
+
+.topnav {
+  overflow: hidden;
+  
+}
+
+.topnav a {
+  float:right;
+  display: block;
+  color: black;
+  text-align:right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid teal;
+}
+
+.w3-panel{
+  background: rgb(39, 34, 34);
+  
+}
+.content{
+  text-shadow: beige;
+}
+.navbar{
+  float:right;
+}
+.img1{
+  opacity: 0.5;
+}
+
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+
+
